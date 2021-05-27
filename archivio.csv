@@ -1,0 +1,24 @@
+codice,batteria,corrente,manuale,nome,prezzo
+Att01,false,true,false,Tassellatore,200
+Att02,true,false,false,Avvitatore,201
+Att03,false,true,false,Trapano,56
+Att04,true,false,false,Levigatrice,100
+Att05,false,true,false,Mouse,78
+Att06,false,true,false,Demolitore,230
+Att07,false,false,true,Sega,30
+Att08,true,false,false,Motosega,200
+Att09,false,false,true,Martello,40
+Att10,false,false,true,Mazzetta,25
+Att11,false,false,true,Ascia,45
+Att12,false,true,false,Troncatrice,300
+Att13,true,false,false,Mixer,190
+Att14,false,false,true,Cazzuola,20
+Att15,false,false,true,Scalpelli,25
+Att16,true,false,fasle,Flessibile,150
+Att17,false,false,true,Pinze,34
+Att18,false,false,true,Chiavi inglesi (set),180
+Att19,false,false,true,Cacciaviti (set),143
+Att20,false,true,false,Sega a nastro,1000
+Att21,true,false,false,Alternativo,89
+Att22,false,true,false,Circolare,150
+Att23,false,false,true,Pialla ,70

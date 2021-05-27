@@ -143,4 +143,5 @@ private static void visualizzaElencoAttrezzi(ArrayList<Attrezzo> elencoAttrezzi)
       System.out.print("\t\t" + elencoAttrezzi.get(i).getPrezzo());
     }
 }
+}
 
